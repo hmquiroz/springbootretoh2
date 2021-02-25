@@ -46,3 +46,7 @@ INSERT INTO dias(dia) VALUES (20);
 INSERT INTO tea(descripcion) VALUES ('99.90%');
 INSERT INTO tea(descripcion) VALUES ('95.90%');
 INSERT INTO tea(descripcion) VALUES ('90.90%');
+
+INSERT INTO cliente(dni,desctarjeta) VALUES (42498387,'Clasica');
+INSERT INTO cliente(dni,desctarjeta) VALUES (41768286,'Oro');
+INSERT INTO cliente(dni,desctarjeta) VALUES (17822694,'Black');
