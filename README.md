@@ -1,5 +1,6 @@
 # springbootretoh2
 Simulador de Compras Reto 1 - Deadline 26/02/2021
+<BR>Autor: Humberto Muguerza <BR>
 <B><br>Componentes usados:<BR></B>
 -Springboot <BR>
 -H2 (in-memory Database) <BR>
